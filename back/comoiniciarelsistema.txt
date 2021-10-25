@@ -1,0 +1,21 @@
+==========danisky kids 2021 ================0
+primero abrir:
+1.-postmand
+2.-robo3t
+3.-Visualstudio code
+luego:
+mongod = en cmd
+mongo = tambien en cmd
+npm start = hacer el el documento de back 
+
+==========cliente prueba =====================
+jonathanf4.32@hotmail.com
+password: miidoloescr7
+
+
+==========admin prueba =====================
+danuskykids@gmail.com
+password:
+
+
+=====numero de trabajo sesion2: numero 7 ===
